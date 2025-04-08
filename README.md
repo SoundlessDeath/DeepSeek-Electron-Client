@@ -5,7 +5,8 @@
 </p>
 
 <p align="center">
-使用 Electron 封装的 DeepSeek 网页版第三方桌面客户端  
+使用 Electron 封装的 DeepSeek 网页版第三方桌面客户端     
+  <br>
 <em>“作者连 Hello World 都没写过，让 DeepSeek 手把手教鼓捣出来的”</em>  
 <br><br>
 🛠️ 采用 Electron v21.4.0 打包，兼容性良好，适用于大多数 Windows 系统
