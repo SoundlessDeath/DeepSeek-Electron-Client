@@ -10,6 +10,25 @@
 <em>“作者连 Hello World 都没写过，让 DeepSeek 手把手教鼓捣出来的”</em>  
 <br><br>
 采用 Electron v21.4.0 打包，兼容性良好，适用于大多数 Windows 系统
+
+<div align="center">
+
+
+
+<h3 align="center">📌 2025/07/21 补充说明</h3>
+
+启动应用时会弹出如下提示窗口：
+<br>
+
+<img src="images/startup-screen.png" alt="启动弹窗" width="70%" />
+<br><br>
+这是由于使用兼容性较强但较旧的 Electron 打包所致。一般不会影响正常使用。
+<br><br>
+若您希望获得无弹窗体验，可关注作者后续使用新版 Electron 的打包版本（会做的……🕊️）。
+<br><br>
+⚠️ 但这意味着您需要自行配置较新的依赖环境，技术小白请谨慎选择！
+
+</div>
 </p>
 
 ---
